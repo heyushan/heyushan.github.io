@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="header">
+	<div class="header-top">
+    	<div class="top">
+        	<ul>
+            	<li>注册即送50沙粒喔~</li>
+                <li><a href="#" class="bg">注册</a></li>
+                <li><a href="#" class="bg">登录</a></li>
+                <li><a href="#" class="bg">我的沙粒</a></li>
+                <li><a href="#" class="sc">加入收藏</a></li>
+                <li><a href="#" class="sj">手机版</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-bottom">
+    	<div class="logo"></div>
+        <div class="search">
+        	<ul>
+            	<li><div><input type="text" class="txt" value="搜索你感兴趣的慢生活和活动"/></div></li>
+        		<li><input type="button" class="but"/></li>
+            </ul>
+        </div>
+    </div>
+    <div id="nav">
+    	<div class="navcenter">
+            <ul>
+                <li><a href="#">首页</a></li>
+                <li><a href="#">慢生活</a></li>
+                <li><a href="#">慢一族</a></li>
+                <li><a href="#">慢风景</a></li>
+                <li><a href="#">慢文艺</a></li>
+                <li><a href="#">慢活动</a></li>
+                <li><a href="#">慢集市</a></li>
+                <li><a href="#">慢应用</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TemplateEndEditable -->
+<div id="footer">
+	<div class="xfooter">
+        <div class="top">
+          <div class="about">
+                <ul>
+                    <h3>了解满慢时间</h3>
+                    <li><a href="#">关于我们</a></li>
+                    <li><a href="#">关于我们</a></li>
+                    <li><a href="#">关于我们</a></li>
+                </ul>
+          </div>
+          <div class="about">
+            	<ul>
+                    <h3>了解满慢时间</h3>
+                    <li><a href="#">关于我们</a></li>
+                    <li><a href="#">关于我们</a></li>
+                    <li><a href="#">关于我们</a></li>
+                </ul>
+          </div>
+            <div class="about">
+            	<ul>
+                    <h3>了解满慢时间</h3>
+                    <li><a href="#"><img src="../images/er.png" width="70" height="70" /></a></li>
+                </ul>
+            </div>
+          <div class="about">
+          	<ul>
+                    <h3>了解满慢时间</h3>
+                    <li><span class="current1"></span><a href="#">关于我们</a></li>
+                    <li><span class="current2"></span><a href="#">关于我们</a></li>
+                    <li><span class="current3"></span><a href="#">关于我们</a></li>
+            </ul>
+          </div>
+          <div class="about5">
+          	<ul class="current">
+                    <h3>慢时间</h3>
+                    <ul>
+                    	<li><a href="#">慢生活</a></li>
+                        <li><a href="#">慢风景</a></li>
+                        <li><a href="#">慢文艺</a></li>
+                    </ul>
+                    <ul>
+                    	<li><a href="#">慢生活</a></li>
+                        <li><a href="#">慢风景</a></li>
+                        <li><a href="#">慢文艺</a></li>
+                    </ul>
+            </ul>
+                
+          </div>
+        </div>
+        <div class="center">
+        	<ul>
+            	<li><a href="#">企业网站：</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+            </ul>
+        </div>
+        <div class="bottom">
+        	<ul>
+            	<li><a href="#">企业网站：</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+                <li><a href="#">时间慢递</a></li><span>|</span>
+            </ul>
+        </div>
+        <p>Copyright&copy;2011-2014慢时间<span>|</span>慢生活社区，小清新网站粤ICP备11106070号 免责声明</p>
+  </div>
+</div>
+</body>
+</html>
